@@ -1,0 +1,5 @@
+= Trelawny Test
+
+Trelawny Test is intended as a very simple c++ testing framework, with the intention of requiring as little overhead as possible to set up, and ultimately to work on as many compilers as possible.
+
+The intended clients of this framework include companies with large legacy code bases which are perceived to be too risky to change compiler on, but who wish to experiment with unit testing. Companies are often concerned that the cost of unit testing is an unwise investment that may not work within their existing code bases, so Trelawny Test is intended to alleviate some of those concerns.
